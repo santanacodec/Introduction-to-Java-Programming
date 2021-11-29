@@ -1,0 +1,32 @@
+Chapter 2
+Elementary Programming
+
+Objectives
+■■ To write Java programs to perform simple computations (§2.2).
+■■ To obtain input from the console using the Scanner class (§2.3).
+■■ To use identifiers to name variables, constants, methods, and classes (§2.4).
+■■ To use variables to store data (§§2.5 and 2.6).
+■■ To program with assignment statements and assignment expressions (§2.6).
+■■ To use constants to store permanent data (§2.7).
+■■ To name classes, methods, variables, and constants by following their 
+naming conventions (§2.8).
+■■ To explore Java numeric primitive data types: byte, short, int, 
+long, float, and double (§2.9.1).
+■■ To read a byte, short, int, long, float, or double value from the 
+keyboard (§2.9.2).
+■■ To perform operations using operators +, -, *, /, and % (§2.9.3).
+■■ To perform exponent operations using Math.pow(a, b) (§2.9.4).
+■■ To write integer literals, floating-point literals, and literals in scientific 
+notation (§2.10).
+■■ To write and evaluate numeric expressions (§2.11).
+■■ To obtain the current system time using 
+System.currentTimeMillis() (§2.12).
+■■ To use augmented assignment operators (§2.13).
+■■ To distinguish between postincrement and preincrement and between 
+postdecrement and predecrement (§2.14).
+■■ To cast the value of one type to another type (§2.15).
+■■ To describe the software development process and apply it to develop 
+the loan payment program (§2.16).
+■■ To write a program that converts a large amount of money into smaller 
+units (§2.17).
+■■ To avoid common errors and pitfalls in elementary programming (§2.18).
