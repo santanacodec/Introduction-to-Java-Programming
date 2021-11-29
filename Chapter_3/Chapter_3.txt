@@ -1,0 +1,23 @@
+Chapter 3
+Selections
+
+Objectives
+■■ To declare boolean variables and write Boolean expressions using 
+relational operators (§3.2).
+■■ To implement selection control using one-way if statements (§3.3).
+■■ To implement selection control using two-way if-else statements 
+(§3.4).
+■■ To implement selection control using nested if and multi-way if
+statements (§3.5).
+■■ To avoid common errors and pitfalls in if statements (§3.6).
+■■ To generate random numbers using the Math.random() method (§3.7).
+■■ To program using selection statements for a variety of examples (SubtractionQuiz, BMI, ComputeTax) (§§3.7–3.9).
+■■ To combine conditions using logical operators (!, &&, ||, and ^) 
+(§3.10).
+■■ To program using selection statements with combined conditions 
+(LeapYear, Lottery) (§§3.11 and 3.12).
+■■ To implement selection control using switch statements (§3.13).
+■■ To write expressions using the conditional operator (§3.14).
+■■ To examine the rules governing operator precedence and associativity 
+(§3.15).
+■■ To apply common techniques to debug errors (§3.16).
