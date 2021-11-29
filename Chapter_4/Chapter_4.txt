@@ -1,0 +1,27 @@
+Chapter 4
+Mathematical Functions, Characters, And Strings
+
+Objectives
+■■ To solve mathematical problems by using the methods in the Math class (§4.2).
+■■ To represent characters using the char type (§4.3).
+■■ To encode characters using ASCII and Unicode (§4.3.1).
+■■ To represent special characters using the escape sequences (§4.3.2).
+■■ To cast a numeric value to a character and cast a character to an integer (§4.3.3).
+■■ To compare and test characters using the static methods in the Character
+class (§4.3.4).
+■■ To introduce objects and instance methods (§4.4).
+■■ To represent strings using the String object (§4.4).
+■■ To return the string length using the length() method (§4.4.1).
+■■ To return a character in the string using the charAt(i) method (§4.4.2).
+■■ To use the + operator to concatenate strings (§4.4.3).
+■■ To return an uppercase string or a lowercase string and to trim a string (§4.4.4).
+■■ To read strings from the console (§4.4.5).
+■■ To read a character from the console (§4.4.6).
+■■ To compare strings using the equals and the compareTo methods (§4.4.7).
+■■ To obtain substrings (§4.4.8).
+■■ To find a character or a substring in a string using the indexOf method (§4.4.9).
+■■ To program using characters and strings (GuessBirthday) (§4.5.1).
+■■ To convert a hexadecimal character to a decimal value (HexDigit2Dec) 
+(§4.5.2).
+■■ To revise the lottery program using strings (LotteryUsingStrings) (§4.5.3).
+■■ To format output using the System.out.printf method (§4.6).
