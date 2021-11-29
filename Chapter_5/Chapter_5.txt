@@ -1,0 +1,23 @@
+Chapter 5
+Loops
+
+Objectives
+■■ To write programs for executing statements repeatedly using a while
+loop (§5.2).
+■■ To write loops for the guessing number problem (§5.3).
+■■ To follow the loop design strategy to develop loops (§5.4).
+■■ To control a loop with the user confirmation or a sentinel value (§5.5).
+■■ To obtain large input from a file using input redirection rather than 
+typing from the keyboard (§5.5).
+■■ To write loops using do-while statements (§5.6).
+■■ To write loops using for statements (§5.7).
+■■ To discover the similarities and differences of three types of loop 
+statements (§5.8).
+■■ To write nested loops (§5.9).
+■■ To learn the techniques for minimizing numerical errors (§5.10).
+■■ To learn loops from a variety of examples (GCD, FutureTuition, and
+Dec2Hex) (§5.11).
+■■ To implement program control with break and continue (§5.12).
+■■ To process characters in a string using a loop in a case study for 
+checking palindrome (§5.13).
+■■ To write a program that displays prime numbers (§5.14).
